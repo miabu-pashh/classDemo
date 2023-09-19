@@ -1,2 +1,13 @@
 This is file 1.
 This is maibu.
+
+
+
+This is the feature 1 change:
+This is the text inside it.
+
+
+This is the ferature1 changes made again in ferature branch
+This is my name
+
+
