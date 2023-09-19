@@ -8,6 +8,6 @@ This is the text inside it.
 
 
 This is the ferature1 changes made again in ferature branch
-This is my name
+This is my name,
 
 
